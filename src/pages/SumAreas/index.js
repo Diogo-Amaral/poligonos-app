@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {ActivityIndicator} from 'react-native';
+import {ActivityIndicator, Alert} from 'react-native';
 
 import {Container, Header, InfoSumAreas} from './styles';
 import api from '../../services/api';
@@ -15,10 +15,15 @@ export default class SumAreas extends Component {
   };
 
   async componentDidMount() {
-    this.setState({loading: true});
-    const response = await api.get(`/soma-areas`);
+    try {
+      this.setState({loading: true});
+      const response = await api.get(`/soma-areas`);
 
-    this.setState({sumAreas: response.data.mensagem, loading: false});
+      this.setState({sumAreas: response.data.mensagem, loading: false});
+    } catch (error) {
+      console.tron.log(error);
+      Alert.alert('Algo deu errado!');
+    }
   }
 
   render() {
