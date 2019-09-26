@@ -2,5 +2,5 @@
 App React Native
 
 - Cadastra retângulos
-- Cadastra trinângulos
+- Cadastra triângulos
 - Mostra a soma de todos os polígonos cadastrados
