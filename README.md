@@ -7,3 +7,9 @@ App React Native
 
 
 ![alt text](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465803.png)
+
+![alt text](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465810.png)
+
+![alt text](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465827.png)
+
+![alt text](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465822.png)
