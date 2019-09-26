@@ -6,4 +6,5 @@ App React Native
 - Mostra a soma das áreas de todos os polígonos cadastrados
 
 
-![Main](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465803.png)![alt text](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465810.png) ![alt text](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465827.png) ![alt text](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465822.png)
+![Main](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465803.png)  ![Rectangle](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465810.png) 
+![Triangle](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465827.png)  ![SumArea](https://github.com/Diogo-Amaral/poligonos-app/blob/master/Screenshot_1569465822.png)
